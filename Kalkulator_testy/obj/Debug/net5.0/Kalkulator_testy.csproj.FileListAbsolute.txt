@@ -1,0 +1,16 @@
+C:\Users\queiker\source\repos\Kalkulator_testy\bin\Debug\net5.0\Kalkulator_testy.exe
+C:\Users\queiker\source\repos\Kalkulator_testy\bin\Debug\net5.0\Kalkulator_testy.deps.json
+C:\Users\queiker\source\repos\Kalkulator_testy\bin\Debug\net5.0\Kalkulator_testy.runtimeconfig.json
+C:\Users\queiker\source\repos\Kalkulator_testy\bin\Debug\net5.0\Kalkulator_testy.runtimeconfig.dev.json
+C:\Users\queiker\source\repos\Kalkulator_testy\bin\Debug\net5.0\Kalkulator_testy.dll
+C:\Users\queiker\source\repos\Kalkulator_testy\bin\Debug\net5.0\ref\Kalkulator_testy.dll
+C:\Users\queiker\source\repos\Kalkulator_testy\bin\Debug\net5.0\Kalkulator_testy.pdb
+C:\Users\queiker\source\repos\Kalkulator_testy\obj\Debug\net5.0\Kalkulator_testy.csproj.AssemblyReference.cache
+C:\Users\queiker\source\repos\Kalkulator_testy\obj\Debug\net5.0\Kalkulator_testy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\queiker\source\repos\Kalkulator_testy\obj\Debug\net5.0\Kalkulator_testy.AssemblyInfoInputs.cache
+C:\Users\queiker\source\repos\Kalkulator_testy\obj\Debug\net5.0\Kalkulator_testy.AssemblyInfo.cs
+C:\Users\queiker\source\repos\Kalkulator_testy\obj\Debug\net5.0\Kalkulator_testy.csproj.CoreCompileInputs.cache
+C:\Users\queiker\source\repos\Kalkulator_testy\obj\Debug\net5.0\Kalkulator_testy.dll
+C:\Users\queiker\source\repos\Kalkulator_testy\obj\Debug\net5.0\ref\Kalkulator_testy.dll
+C:\Users\queiker\source\repos\Kalkulator_testy\obj\Debug\net5.0\Kalkulator_testy.pdb
+C:\Users\queiker\source\repos\Kalkulator_testy\obj\Debug\net5.0\Kalkulator_testy.genruntimeconfig.cache
